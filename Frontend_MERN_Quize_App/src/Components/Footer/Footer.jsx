@@ -65,7 +65,7 @@ export const Footer = () => {
             <div className="flex items-center">
               <i className="fa fa-linkedin text-white mr-1"></i>
               <a
-                href="https://www.linkedin.com/"
+                href="https://linkedin.com/in/yussif-yahuza-875162113"
                 className="no-underline text-white text-xs block xl:text-sm"
                 target="_blank"
               >
